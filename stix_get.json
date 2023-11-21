@@ -1,0 +1,157 @@
+{
+  "id": "bundle--60d4e4cd-d80b-40a8-88b3-c6d47252c0b2",
+  "objects": [
+    {
+      "created": "2023-10-18T15:49:00.000Z",
+      "first_observed": "2023-10-18T15:49:00.000Z",
+      "id": "observed-data--A9esY1IMpzH7d2J2EVMT",
+      "last_observed": "2023-10-18T15:49:00.000Z",
+      "modified": "2023-10-18T15:49:00.000Z",
+      "number_observed": 1,
+      "objects": {
+        "0": {
+          "type": "ipv4-addr",
+          "value": "10.20.0.1"
+        },
+        "1": {
+          "account_login": "moylu01",
+          "type": "user-account",
+          "user_id": "moylu01"
+        },
+        "2": {
+          "hashes": {
+            "SHA-256": "91514e6be3f581a77daa79e2a4905dcbdf6bdcc32ee0f713599a94d453a26fc1"
+          },
+          "name": "maze.exe",
+          "type": "file"
+        },
+        "3": {
+          "hashes": {
+            "SHA-256": "fc52b3492ec801a4d70577f71d56c5380bd36a6f7e324dd75268ec567652feed"
+          },
+          "name": "tryme.exe",
+          "type": "file"
+        },
+        "4": {
+          "hashes": {
+            "SHA-256": "0de81cc515110aefdad5bb021a385b0070bfc385b56dc3658127fb711123f957"
+          },
+          "type": "artifact"
+        },
+        "5": {
+          "hashes": {
+            "SHA-256": "0de81cc515110aefdad5bb021a385b0070bfc385b56dc3658127fb711123f957"
+          },
+          "name": "tryme.exe",
+          "type": "file"
+        },
+        "6": {
+          "type": "ipv4-addr",
+          "value": "192.168.64.6"
+        }
+      },
+      "type": "observed-data"
+    },
+    {
+      "created": "2023-10-18T15:50:00.000Z",
+      "first_observed": "2023-10-18T15:50:00.000Z",
+      "id": "observed-data--M6B3mfLaW8HJ6Rkg9Vlq",
+      "last_observed": "2023-10-18T15:50:00.000Z",
+      "modified": "2023-10-18T15:50:00.000Z",
+      "number_observed": 1,
+      "objects": {
+        "0": {
+          "type": "url",
+          "value": "https://hack.com"
+        },
+        "1": {
+          "type": "ipv4-addr",
+          "value": "2.58.56.101"
+        },
+        "2": {
+          "type": "ipv4-addr",
+          "value": "10.20.0.1"
+        },
+        "3": {
+          "account_login": "moylu01",
+          "type": "user-account",
+          "user_id": "moylu01"
+        },
+        "4": {
+          "hashes": {
+            "SHA-256": "91514e6be3f581a77daa79e2a4905dcbdf6bdcc32ee0f713599a94d453a26fc1"
+          },
+          "name": "maze.exe",
+          "type": "file"
+        },
+        "5": {
+          "type": "ipv4-addr",
+          "value": "10.0.0.5"
+        },
+        "6": {
+          "hashes": {
+            "SHA-256": "fc52b3492ec801a4d70577f71d56c5380bd36a6f7e324dd75268ec567652feed"
+          },
+          "name": "tryme.exe",
+          "type": "file"
+        },
+        "7": {
+          "hashes": {
+            "SHA-256": "0de81cc515110aefdad5bb021a385b0070bfc385b56dc3658127fb711123f957"
+          },
+          "type": "artifact"
+        },
+        "8": {
+          "hashes": {
+            "SHA-256": "0de81cc515110aefdad5bb021a385b0070bfc385b56dc3658127fb711123f957"
+          },
+          "name": "tryme.exe",
+          "type": "file"
+        }
+      },
+      "type": "observed-data"
+    },
+    {
+      "created": "2023-10-18T15:50:00.000Z",
+      "first_observed": "2023-10-18T15:50:00.000Z",
+      "id": "observed-data--ofmpv3KZQaVAICZU1yJ7",
+      "last_observed": "2023-10-18T15:50:00.000Z",
+      "modified": "2023-10-18T15:50:00.000Z",
+      "number_observed": 1,
+      "objects": {
+        "0": {
+          "type": "url",
+          "value": "ivvkwxq.tw"
+        },
+        "1": {
+          "type": "url",
+          "value": "http://a2vast.com/"
+        },
+        "2": {
+          "account_login": "moylu01",
+          "type": "user-account",
+          "user_id": "moylu01"
+        },
+        "3": {
+          "type": "ipv4-addr",
+          "value": "10.0.0.1"
+        },
+        "4": {
+          "type": "ipv4-addr",
+          "value": "27.61.109.7"
+        },
+        "5": {
+          "type": "url",
+          "value": "regway.com"
+        },
+        "6": {
+          "type": "url",
+          "value": "jscdn.biz"
+        }
+      },
+      "type": "observed-data"
+    }
+  ],
+  "spec_version": "2.0",
+  "type": "bundle"
+}
